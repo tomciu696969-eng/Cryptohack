@@ -1,2 +1,0 @@
-# Cryptohack
-Hack 
